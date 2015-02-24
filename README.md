@@ -11,5 +11,6 @@
 ### Basic usage:
  * Encrypt: $ picrypt [FILE].xyz
  * Decrypt: $ picrypt [IMAGE].bmp
+ 
 ### Advanced usage:
  * $ picrypt [IMAGE].bmp [FILE].xyz
