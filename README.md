@@ -1,5 +1,5 @@
-##Picrypt: Encrypt and Decrypt into images
-####By: Felipe Escoto
+## Picrypt: Encrypt and Decrypt into images
+#### By: Felipe Escoto
 
 
 
